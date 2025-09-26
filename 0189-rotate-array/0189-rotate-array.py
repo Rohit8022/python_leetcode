@@ -11,4 +11,5 @@ class Solution:
                 nums[i]=nums[i-1]
             nums[0]=l
             r-=1  """ 
-        nums[:]=nums= nums[len(nums)-k:] + nums[:len(nums)-k]     
+        r=k%len(nums)    
+        nums[:]=nums= nums[len(nums)-r:] + nums[:len(nums)-r]     
