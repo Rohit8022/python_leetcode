@@ -1,11 +1,5 @@
 class Solution:
-    
     def rotate(self, nums: List[int], k: int) -> None:
-        def reverse(left,right):
-            while left<right:
-                nums[left],nums[right]=nums[right],nums[left]
-                left+=1
-                right-=1
         """
         Do not return anything, modify nums in-place instead."""
         #Brutforce
@@ -22,6 +16,11 @@ class Solution:
         r=k%len(nums)    
         nums[:]=nums= nums[len(nums)-r:] + nums[:len(nums)-r] """
         # INTERVIEW PREFFERD SOLUTION(SAME FOR ALL LANGUAGE) 
+        def reverse(left,right):
+            while left<right:
+                nums[left],nums[right]=nums[right],nums[left]
+                left+=1
+                right-=1
         l=len(nums)
         reverse(l-k,l-1)
         reverse(0,l-k-1)
