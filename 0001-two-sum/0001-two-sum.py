@@ -1,5 +1,6 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        #TIME COMPLEXITY = O(n2)
         '''
         l=0
         while l<len(nums):
@@ -10,6 +11,8 @@ class Solution:
                 r+=1
             l+=1
         '''
+        #TIME COMPLEXITY = O(n) 
+        #SPACE COMPLEXITY = O(n)
         d={}
         for i in range(len(nums)):
             rem =target-nums[i]
