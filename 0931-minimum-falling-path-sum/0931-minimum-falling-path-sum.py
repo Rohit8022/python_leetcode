@@ -3,7 +3,7 @@ class Solution:
         n=len(matrix)
         pre=matrix[0]
         for i in range(1,n):
-            curr=[10001]*n
+            curr=[float("inf")]*n
             for j in range(0,n):
                 if j!=0:
                     curr[j-1]=min(curr[j-1],pre[j]+matrix[i][j-1])
