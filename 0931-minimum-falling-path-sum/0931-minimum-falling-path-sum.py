@@ -11,7 +11,7 @@ class Solution:
                 if j!=n-1:
                     curr[j+1]=min(curr[j+1],pre[j]+matrix[i][j+1])                        
             pre=curr.copy()
-        m=pre[0]
+        m=float("inf")
         for i in pre:
             m=min(m,i)
         return m                    
