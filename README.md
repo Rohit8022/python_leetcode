@@ -11,6 +11,7 @@
 | [0063-unique-paths-ii](https://github.com/Rohit8022/python_leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rohit8022/python_leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/Rohit8022/python_leetcode/tree/main/0120-triangle/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Rohit8022/python_leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Rohit8022/python_leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Rohit8022/python_leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Dynamic Programming
@@ -19,6 +20,7 @@
 | [0063-unique-paths-ii](https://github.com/Rohit8022/python_leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rohit8022/python_leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/Rohit8022/python_leetcode/tree/main/0120-triangle/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Rohit8022/python_leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Rohit8022/python_leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Rohit8022/python_leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Matrix
@@ -28,4 +30,12 @@
 | [0064-minimum-path-sum](https://github.com/Rohit8022/python_leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Rohit8022/python_leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Rohit8022/python_leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rohit8022/python_leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Rohit8022/python_leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
