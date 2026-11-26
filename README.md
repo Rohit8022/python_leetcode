@@ -46,4 +46,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Rohit8022/python_leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0796-rotate-string](https://github.com/Rohit8022/python_leetcode/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Rohit8022/python_leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
