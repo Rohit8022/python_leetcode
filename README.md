@@ -38,4 +38,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Rohit8022/python_leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/Rohit8022/python_leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/Rohit8022/python_leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 <!---LeetCode Topics End-->
