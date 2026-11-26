@@ -13,7 +13,7 @@ class Solution:
         for i in range(1,len(nums)):
             for t in range(sm+1):
                 if nums[i]>t:
-                    pic=dp[i-1][t]
+                    pic=False
                 else:
                     pic=dp[i-1][t-nums[i]]
                 npic=dp[i-1][t]
